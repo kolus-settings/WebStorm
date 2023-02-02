@@ -1,8 +1,8 @@
 <application>
   <component name="doki-theme-icon-config">
-    <option name="currentThemeId" value="b93ab4ea-ff96-4459-8fa2-0caae5bc7116" />
+    <option name="UIIcons" value="false" />
+    <option name="currentThemeId" value="e55e70ea-454b-47ef-9270-d46390dd2769" />
     <option name="glyphIcon" value="false" />
-    <option name="myIcons" value="true" />
     <option name="userId" value="a86f32a2-35c2-460d-9a8c-0bc65f58d0aa" />
     <option name="version" value="88.3-1.0.2" />
   </component>
