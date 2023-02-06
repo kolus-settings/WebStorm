@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="prod" type="AUTO_DETECTED" />
+      <mapping pattern="pipeline_*.yml" type="ConcoursePipeline" />
+      <mapping pattern="pipeline_*.yaml" type="ConcoursePipeline" />
+      <mapping pattern="**/pipeline/*.yml" type="ConcoursePipeline" />
+      <mapping pattern="**/pipeline/*.yaml" type="ConcoursePipeline" />
+      <mapping pattern="pipeline.yaml" type="ConcoursePipeline" />
+      <mapping pattern="pipeline.yml" type="ConcoursePipeline" />
+      <mapping pattern="*task.yml" type="ConcourseTask" />
+      <mapping pattern="*task.yaml" type="ConcourseTask" />
+      <mapping pattern="**/tasks/*.yml" type="ConcourseTask" />
+      <mapping pattern="**/tasks/*.yaml" type="ConcourseTask" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
