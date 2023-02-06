@@ -6,6 +6,10 @@
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
