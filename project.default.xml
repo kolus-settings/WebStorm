@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "//wsl$/Ubuntu/home/kolus/code/web/BRN2API",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="1060" y="193" key="FileChooserDialogImpl" timestamp="1673297658443">
+          <screen x="0" y="0" width="2560" height="1032" />
+        </state>
+        <state x="1060" y="193" key="FileChooserDialogImpl/0.0.2560.1032/-1080.-155.1080.1872" timestamp="1673297658443" />
+        <state x="781" y="92" key="SettingsEditor" timestamp="1673861227396">
+          <screen x="0" y="0" width="2560" height="1032" />
+        </state>
+        <state x="781" y="92" key="SettingsEditor/0.0.2560.1032/-1080.-155.1080.1872" timestamp="1673861227396" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="DokiDokiThemeConfig">
+    <option name="discreetMode" value="true" />
+    <option name="discreetModeConfig" value="{&quot;statusBarWidgetEnabled&quot;:true,&quot;stickersEnabled&quot;:false,&quot;editorWallpaperEnabled&quot;:true,&quot;savedBackground&quot;:&quot;file:///C:/Users/kolaq/AppData/Roaming/JetBrains/WebStorm2022.3/dokiThemeAssets/backgrounds/wallpapers/miku.png,7,SCALE,CENTER&quot;,&quot;emptyWallpaperEnabled&quot;:true}" />
+    <option name="emptyFrameBackground" value="false" />
+    <option name="firstTime" value="false" />
+    <option name="showThemeStatusBar" value="false" />
+    <option name="stickerLevel" value="OFF" />
+    <option name="userId" value="6fa4ba1d-5e00-4d70-973c-2e763fb12543" />
+    <option name="version" value="88.3-1.8.0" />
+  </component>
+</application>
