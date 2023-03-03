@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="nonNewMethods" type="AUTO_DETECTED" />
       <mapping pattern="prod" type="AUTO_DETECTED" />
       <mapping pattern="pipeline_*.yml" type="ConcoursePipeline" />
       <mapping pattern="pipeline_*.yaml" type="ConcoursePipeline" />
