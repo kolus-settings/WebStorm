@@ -13,6 +13,7 @@
       <mapping pattern="*task.yaml" type="ConcourseTask" />
       <mapping pattern="**/tasks/*.yml" type="ConcourseTask" />
       <mapping pattern="**/tasks/*.yaml" type="ConcourseTask" />
+      <mapping ext="divx" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
