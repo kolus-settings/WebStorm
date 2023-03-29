@@ -3,16 +3,6 @@
     <extensionMap>
       <mapping pattern="nonNewMethods" type="AUTO_DETECTED" />
       <mapping pattern="prod" type="AUTO_DETECTED" />
-      <mapping pattern="pipeline_*.yml" type="ConcoursePipeline" />
-      <mapping pattern="pipeline_*.yaml" type="ConcoursePipeline" />
-      <mapping pattern="**/pipeline/*.yml" type="ConcoursePipeline" />
-      <mapping pattern="**/pipeline/*.yaml" type="ConcoursePipeline" />
-      <mapping pattern="pipeline.yaml" type="ConcoursePipeline" />
-      <mapping pattern="pipeline.yml" type="ConcoursePipeline" />
-      <mapping pattern="*task.yml" type="ConcourseTask" />
-      <mapping pattern="*task.yaml" type="ConcourseTask" />
-      <mapping pattern="**/tasks/*.yml" type="ConcourseTask" />
-      <mapping pattern="**/tasks/*.yaml" type="ConcourseTask" />
       <mapping ext="divx" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
@@ -21,6 +11,16 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="**/pipeline/*.yaml" type="ConcoursePipeline" />
+      <mapping pattern="**/pipeline/*.yml" type="ConcoursePipeline" />
+      <mapping pattern="**/tasks/*.yaml" type="ConcourseTask" />
+      <mapping pattern="**/tasks/*.yml" type="ConcourseTask" />
+      <mapping pattern="*task.yaml" type="ConcourseTask" />
+      <mapping pattern="*task.yml" type="ConcourseTask" />
+      <mapping pattern="pipeline.yaml" type="ConcoursePipeline" />
+      <mapping pattern="pipeline.yml" type="ConcoursePipeline" />
+      <mapping pattern="pipeline_*.yaml" type="ConcoursePipeline" />
+      <mapping pattern="pipeline_*.yml" type="ConcoursePipeline" />
     </extensionMap>
   </component>
 </application>
