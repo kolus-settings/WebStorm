@@ -1,6 +1,6 @@
 <application>
   <component name="HighlightTokenConfiguration">
-    <option name="a">
+    <option name="highlightTokenMap">
       <map>
         <entry key="COMMENT">
           <value>
@@ -20,6 +20,7 @@
           <value>
             <list>
               <option value="public" />
+              <option value="abstract" />
             </list>
           </value>
         </entry>
