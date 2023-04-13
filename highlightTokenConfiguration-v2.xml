@@ -19,12 +19,13 @@
         <entry key="METHOD_KEYWORD">
           <value>
             <list>
-              <option value="public" />
               <option value="abstract" />
+              <option value="public" />
             </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="plainTextFileHighlightEnabled" value="true" />
   </component>
 </application>
