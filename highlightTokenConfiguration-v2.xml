@@ -5,6 +5,9 @@
         <entry key="COMMENT">
           <value>
             <list>
+              <option value="TODO" />
+              <option value="todo" />
+              <option value="!!" />
               <option value="!" />
               <option value="?" />
               <option value="*" />
