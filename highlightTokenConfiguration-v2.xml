@@ -1,13 +1,10 @@
 <application>
   <component name="HighlightTokenConfiguration">
-    <option name="highlightTokenMap">
+    <option name="a">
       <map>
         <entry key="COMMENT">
           <value>
             <list>
-              <option value="TODO" />
-              <option value="todo" />
-              <option value="!!" />
               <option value="!" />
               <option value="?" />
               <option value="*" />
@@ -22,13 +19,12 @@
         <entry key="METHOD_KEYWORD">
           <value>
             <list>
-              <option value="abstract" />
               <option value="public" />
+              <option value="abstract" />
             </list>
           </value>
         </entry>
       </map>
     </option>
-    <option name="plainTextFileHighlightEnabled" value="true" />
   </component>
 </application>
