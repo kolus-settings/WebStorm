@@ -5,7 +5,7 @@
         <Entry>
           <option name="groupIdentifier" value="advanced_linux_settings:Advanced" />
           <option name="name" value="implType" />
-          <option name="value" value="GTK_GSETTINGS" />
+          <option name="value" value="GTK_XSETTINGS" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="advanced_linux_settings_hidden" />
@@ -15,17 +15,17 @@
         <Entry>
           <option name="groupIdentifier" value="gnome_settings:Gtk Theme" />
           <option name="name" value="guessLightAndDarkThemes" />
-          <option name="value" value="true" />
+          <option name="value" value="false" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="gnome_settings:Gtk Theme:group_0" />
           <option name="name" value="lightGtkTheme" />
-          <option name="value" value="Adwaita" />
+          <option name="value" value="adw-gtk3" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="gnome_settings:Gtk Theme:group_0" />
           <option name="name" value="darkGtkTheme" />
-          <option name="value" value="Adwaita-dark" />
+          <option name="value" value="adw-gtk3-dark" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="gnome_settings:Gtk Theme:group_0" />
