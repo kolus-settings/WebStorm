@@ -2,7 +2,7 @@
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/usr/bin/node" />
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="18.15.0" last-modified="1678307190483" />
+      <version-cache version="18.16.1" last-modified="1688546286865" />
     </local-interpreter>
   </component>
   <component name="WslNodeInterpreterManager">
