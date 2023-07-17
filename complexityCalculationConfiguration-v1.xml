@@ -1,0 +1,5 @@
+<application>
+  <component name="ComplexityCalculationConfiguration">
+    <complexityCalculationEnabled>true</complexityCalculationEnabled>
+  </component>
+</application>
