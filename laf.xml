@@ -1,5 +1,11 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
+    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="987fea89-a3e4-45f6-9898-7dbace4d7bd3" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="Light" scheme="_@user_Light" />
+      <laf-to-scheme laf="Light with Light Header" scheme="_@user_Light" />
+      <laf-to-scheme laf="Solarized Light" scheme="_@user_Solarized Light (4lex4)" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
