@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="nonNewMethods" type="AUTO_DETECTED" />
       <mapping pattern="prod" type="AUTO_DETECTED" />
+      <mapping ext="realm" type="Native" />
       <mapping ext="divx" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
